@@ -31,10 +31,23 @@
 - [ ] reverse
 - [ ] youtubestats
 - [x] bitcoin
-- [x] e64 / d64
+- [x] encode
+```
+Syntax: encode <message>
+Aliases: e64
+```
+- [x] decode
+```
+Syntax: decode <base64 message>
+Aliases: d64
+```
 
 # utility
 - [x] avatar
+```
+Syntax: avatar <@user>
+Aliases: av
+```
 - [x] guildicon
 - [x] guildbanner
 - [x] server
@@ -61,5 +74,13 @@
 - [x] clean
 - [ ] kick
 - [x] nuke
+```
+Syntax: nuke <#channel>
+Aliases: 
+```
 - [x] lock / unlock
-- [x] arole / drole
+```
+Syntax: lock/unlock <#channel>
+Aliases: l, u
+```
+- [ ] arole / drole
