@@ -11,7 +11,6 @@ Optional Argurmrnts: []
 - [ ] autoresponder
 - [ ] autorole
 - [ ] blacklist
-- [ ] commend
 - [ ] goodbye
 - [ ] jailchannel
 - [ ] joindm
@@ -20,6 +19,7 @@ Optional Argurmrnts: []
 
 # Fun
 - [ ] 8ball
+- [ ] commend
 - [ ] advice
 - [ ] anime
 - [ ] bite
