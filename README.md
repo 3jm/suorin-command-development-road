@@ -1,4 +1,10 @@
 # Command Road-map for Lean bot. This will take a while to finish, as more commands will constantly be added.
+you can find required arguments and optional arguments below. 
+
+```
+Required Arguements: <>
+Optional Argurmrnts: []
+```
 
 # Configuration
 - [ ] antinuke
@@ -45,20 +51,40 @@ Aliases: d64
 # utility
 - [x] avatar
 ```
-Syntax: avatar <@user>
+Syntax: avatar [@user]
 Aliases: av
 ```
 - [x] guildicon
 - [x] guildbanner
 - [x] server
 - [x] userinfo
+```
+Syntax: userinfo [@user]
+Aliases: 
+```
 - [x] userbanner
+```
+Syntax: userbanner [@user]
+Aliases:
+```
 
 # info
 - [x] botinfo
 - [x] bugreport
+```
+Syntax: bugreport <message>
+Aliases: 
+```
 - [x] suggest
+```
+Syntax: suggest <message>
+Aliases:
+```
 - [x] feedback
+```
+Syntax: feedback <message>
+Aliases:
+```
 - [x] help
 - [ ] invite
 - [x] ping
@@ -71,10 +97,17 @@ Aliases: av
 
 # moderation
 - [x] ban
+```
+Syntax: ban <@user> [reason]
+Aliases:
+```
 - [x] clean
+```
+Syntax: clean <amount>
+Aliases: c
+```
 - [ ] kick
 - [x] nuke
-```
 Syntax: nuke <#channel>
 Aliases: 
 ```
