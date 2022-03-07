@@ -18,15 +18,22 @@ Optional Argurmrnts: []
 - [ ] welcome
 
 # Fun
-- [ ] 8ball
-- [ ] commend
-- [ ] advice
-- [ ] anime
+- [x] 8ball
+```
+Syntax: 8ball <message>
+Aliases:
+```
+- [x] rep
+```
+Syntax: rep <user> [message]
+Aliases:
+```
+- [x] advice
 - [ ] bite
 - [ ] character
 - [ ] clap
 - [ ] coinflip
-- [ ] dadjoke
+- [x] dadjoke
 - [ ] flipmsg
 - [ ] hug
 - [ ] kiss
