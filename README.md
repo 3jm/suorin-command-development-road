@@ -27,6 +27,11 @@ Aliases:
 Syntax: rep <user> [message]
 Aliases:
 ```
+- [x] ben
+```
+Syntax: ben <message>
+Aliases:
+```
 - [x] advice
 - [x] slot
 - [ ] bite
