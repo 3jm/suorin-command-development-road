@@ -14,7 +14,6 @@ Optional Argurmrnts: []
 - [ ] goodbye
 - [ ] jailchannel
 - [ ] joindm
-- [ ] prefix
 - [ ] welcome
 
 # Fun
@@ -29,19 +28,32 @@ Syntax: rep <user> [message]
 Aliases:
 ```
 - [x] advice
+- [x] slot
 - [ ] bite
 - [ ] character
 - [ ] clap
 - [ ] coinflip
 - [x] dadjoke
 - [ ] flipmsg
-- [ ] hug
-- [ ] kiss
+- [x] hug
+```
+Syntax: hug <@user>
+Aliases:
+```
+- [x] kiss
+```
+Syntax: kiss <@user>
+Aliases:
+```
 - [ ] minecraft
 - [ ] randombird
 - [ ] randomcat
 - [ ] randomdog
-- [ ] reverse
+- [x] reverse
+```
+Syntax: reverse <message>
+Aliases:
+```
 - [ ] youtubestats
 - [x] bitcoin
 - [x] encode
@@ -93,9 +105,8 @@ Syntax: feedback <message>
 Aliases:
 ```
 - [x] help
-- [ ] invite
+- [x] invite
 - [x] ping
-- [ ] uptime
 - [x] version
 
 # lastfm
@@ -115,6 +126,7 @@ Aliases: c
 ```
 - [ ] kick
 - [x] nuke
+```
 Syntax: nuke <#channel>
 Aliases: 
 ```
