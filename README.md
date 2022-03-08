@@ -124,7 +124,11 @@ Aliases:
 Syntax: clean <amount>
 Aliases: c
 ```
-- [ ] kick
+- [x] kick
+```
+Syntax: kick <@user> [reason]
+Aliases:
+```
 - [x] nuke
 ```
 Syntax: nuke <#channel>
