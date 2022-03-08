@@ -32,6 +32,11 @@ Aliases:
 Syntax: ben <message>
 Aliases:
 ```
+- [x] deepfry
+```
+Syntax: deepfry <image url> (ONLY PNG, JPEG, JPG Are supported.)
+Aliases:
+```
 - [x] advice
 - [x] slot
 - [ ] bite
