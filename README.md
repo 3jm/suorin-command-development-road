@@ -15,6 +15,7 @@ Optional Argurmrnts: []
 - [ ] jailchannel
 - [ ] joindm
 - [ ] welcome
+- [ ] change_role_cover
 
 # Fun
 - [x] 8ball
